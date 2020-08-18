@@ -9,7 +9,7 @@
 -Compile.
 
 📦 Construido con 
--Herramientas que utilizaste para crear tu proyecto
+-Herramientas utilizadas para crear el proyecto
 -	Netbeans Ide 8.0.2
 -	Mspaint
 -	So Windows 8.1
