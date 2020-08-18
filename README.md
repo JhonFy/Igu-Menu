@@ -1,4 +1,4 @@
-🚀 Comenzando 
+🔧 Comenzando 
 -Desarrollo de una interfaz gráfica de usuario (Menú).
 -El proyecto contiene una carpeta nombrada sGo, la cual  contiene la lógica del jFrame, y otra nombrada ImagesGo la cual contiene 8 archivos png. 
 
